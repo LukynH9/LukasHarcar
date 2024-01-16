@@ -4,22 +4,8 @@
     <mapping uuid="d5e96e3a-aa3a-4d66-af67-4478e71abd36" name="identifier.sqlite Mapping">
       <data-sources db="225c78c7-e5d0-4f00-9d26-4f426adf73ed" ddl="90245c2f-bb78-4e8c-8332-e79cbd5ad29d" />
     </mapping>
-  </component>
-  <component name="SqlDataSourceStorage">
-    <option name="dataSources">
-      <list>
-        <State>
-          <option name="id" value="90245c2f-bb78-4e8c-8332-e79cbd5ad29d" />
-          <option name="name" value="identifier.sqlite (DDL)" />
-          <option name="dbmsName" value="SQLITE" />
-          <option name="urls">
-            <array>
-              <option value="file://$PROJECT_DIR$/Lukyn/polls/migrations" />
-            </array>
-          </option>
-          <option name="outLayout" value="File per object by schema.groovy" />
-        </State>
-      </list>
-    </option>
+    <mapping uuid="3e0a49a0-e912-4dbe-9b04-8578cccebf94" name="identifier.sqlite [2] Mapping">
+      <data-sources db="dbca8c96-09ab-499f-914b-d41c4896be3d" ddl="b6f783be-33b9-47c8-b5e5-f481dd3762f5" />
+    </mapping>
   </component>
 </project>
